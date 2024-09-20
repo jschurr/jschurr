@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jschurr
-- 👀 I’m interested in Ruby on Rails
-- 🌱 I’m currently learning Ruby
-- 💞️ I’m looking to collaborate on GWPC
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning Python
 - 📫 How to reach me j.schurr@kcc.ks.gov
 
 <!---

@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jschurr
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Python
-- 📫 How to reach me j.schurr@kcc.ks.gov
+- 📫 How to reach me june.schurr@ks.gov
 
 <!---
 jschurr/jschurr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
